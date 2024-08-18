@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gbusch.github.io/sitemap.xml
